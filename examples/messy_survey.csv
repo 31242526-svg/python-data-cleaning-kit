@@ -1,0 +1,10 @@
+Participant ID,Age (years),Score,Notes,Site
+1, 21 ,"1,200",,Pune
+2,22,880,clean,Pune
+3, ,950," follow up ",Mumbai
+2,22,880,clean,Pune
+,19,760,,Mumbai
+4,45,1500,outlier check,Pune
+5,23,,missing score,Nashik
+6,24,910,,
+,,,, 
